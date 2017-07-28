@@ -122,12 +122,8 @@
   // adding dictionary and word filter //
   var hangmanWords = [
     "ruby","rails","trojan","django","wannacry","python","ruby","java","anonymus","antivirus","pendrive",
-     "was","for","on","are","algorithm","keyboard","javascript","virus","hacker","adobe","usb",
      "binary","cache","memory","bit","byte","terminal","bug","buffer","lan","chip",
      "server","code","computer","crash","timer","counter","data","linux","windows",
-     "debug","default","digital","analog","disk","dump","drive","mysql","android","iphone",
-     "error","erase","array","inject","output","system","bus","logic","security",
-     "recovery","ram","rom","router","shell","tape","text","pi","cloud",
      "ajax","jquery","angularjs","mobile","query","protocol","proxy","printer","port",
      "mail","menu","method","load","goto","node","ping","pixel",
      "layer","network","inbox","github","icon","hub","host","domain","browser","toolbar",
